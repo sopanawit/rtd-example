@@ -20,4 +20,4 @@ Contents
 
    usage
    api
-   การดาวน์โหลดจาก Office store และการติดตั้ง
+   office installation
