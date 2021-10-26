@@ -20,4 +20,4 @@ Contents
 
    usage
    api
-   office installation
+   office-installation
