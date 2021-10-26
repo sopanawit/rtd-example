@@ -2,9 +2,9 @@
 
 # -- Project information
 
-project = 'Lumache'
-copyright = '2021, Graziella'
-author = 'Graziella'
+project = 'iThesis'
+copyright = '2021, MHESI'
+author = 'Sopanawit Pi'
 
 release = '0.1'
 version = '0.1.0'
