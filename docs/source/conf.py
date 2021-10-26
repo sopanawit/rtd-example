@@ -3,8 +3,13 @@
 # -- Project information
 
 project = 'iThesis'
+<<<<<<< Updated upstream
 copyright = '2021, MHESI'
 author = 'Sopanawit Pi'
+=======
+copyright = '2021, Sopanawit'
+author = 'Sopanawit'
+>>>>>>> Stashed changes
 
 release = '0.1'
 version = '0.1.0'

@@ -1,9 +1,7 @@
-Template for the Read the Docs tutorial
+Knowledge Base for iThesis Community
 =======================================
 
-This GitHub template includes fictional Python library
-with some basic Sphinx docs.
-
-Read the tutorial here:
-
-https://docs.readthedocs.io/en/stable/tutorial/
+Installation
+------------
+You can edit any document files (.rst) and pull request into this repository.
+Food luck.
