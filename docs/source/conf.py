@@ -48,10 +48,10 @@ latex_elements = {
         \XeTeXlinebreakskip = 0pt plus 1pt  
         \usepackage{fonts-tlwg}
         \setmainfont[
-            BoldFont={/fonts/THSarabunNew_Bold.ttf},
-            ItalicFont={/fonts/THSarabunNew_Italic.ttf},
-            BoldItalicFont={/fonts/THSarabunNew_BoldItalic.ttf},
-        ]{THSarabunNew.ttf}
+            BoldFont={fonts/THSarabunNew_Bold.ttf},
+            ItalicFont={fonts/THSarabunNew_Italic.ttf},
+            BoldItalicFont={fonts/THSarabunNew_BoldItalic.ttf},
+        ]{fonts/THSarabunNew.ttf}
     ''',
 
     'preamble': r'''
