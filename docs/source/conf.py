@@ -48,6 +48,8 @@ latex_elements = {
         \XeTeXlinebreakskip = 0pt plus 1pt  
         \usepackage{fonts-tlwg}
         \setmainfont{THSarabunNew.ttf}
+        \setsansfont{THSarabunNew.ttf}
+        \setmonofont{THSarabunNew.ttf}
     ''',
 
     'preamble': r'''
