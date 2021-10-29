@@ -44,7 +44,6 @@ latex_elements = {
 
     'preamble': r'''
         \usepackage[UTF8]{ctex}
-        \usepackage[thai]{babel}
     ''',
 }
 
