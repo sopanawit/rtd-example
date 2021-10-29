@@ -34,6 +34,7 @@ templates_path = ['_templates']
 # -- Options for LaTeX output ---------------------------------------------
 
 latex_engine = 'xelatex'
+latex_use_xindy = False
 latex_elements = {
     # Point size option of the document class ('10pt', '11pt' or '12pt')
     # 'pointsize': '10pt',
@@ -41,20 +42,11 @@ latex_elements = {
     # Paper size option of the document class ('a4paper' or 'letterpaper')
     'papersize': 'a4paper',
 
-    'fontpkg': r'''
-        \usepackage{fontspec}
-        \usepackage{xltxtra}
-        \XeTeXlinebreaklocale "th_TH"
-        \XeTeXlinebreakskip = 0pt plus 1pt  
-        \usepackage{fonts-tlwg}
-        \setmainfont{THSarabunNew.ttf}
-        \setsansfont{THSarabunNew.ttf}
-        \setmonofont{THSarabunNew.ttf}
-    ''',
-
     'preamble': r'''
-        \usepackage[utf8]{ctex}
-    '''
+        \usepackage[UTF8]{ctex}
+        \usepackage[thai]{babel}
+        \usepackage{thswitch}
+    ''',
 }
 
 # Grouping the document tree into LaTeX files. List of tuples
